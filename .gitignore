@@ -1,0 +1,30 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.tar.gz
+*.zip
+*.bak*
+*.bak_*
+*.before_*
+uploads/
+captures/
+.env
+.vscode/
+.idea/
+Thumbs.db
+
+# Model files - too large for normal GitHub upload
+*.onnx
+*.om
+models/*.onnx
+models/*.om
+
+# Model files - too large for normal GitHub upload
+*.onnx
+*.om
+models/*.onnx
+models/*.om
